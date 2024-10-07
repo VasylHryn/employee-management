@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h3 class="mt-5">Employee Management</h3> <!-- Перемещаем заголовок сюда -->
+        <h3 class="mt-5">Employee Management</h3>
         <div class="content-wrapper">
             <div class="form-area">
                 <form @submit.prevent="save" id="check-register-form">
